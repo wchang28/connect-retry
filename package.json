@@ -1,0 +1,20 @@
+{
+  "name": "connect-retry",
+  "version": "0.0.1",
+  "description": "Generic Connection Retry Module",
+  "main": "./js/index.js",
+  "typings": "./js/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wchang28/connect-retry.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "mssql"
+  ],
+  "author": "Wen Chang",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^6.0.73"
+  }
+}
